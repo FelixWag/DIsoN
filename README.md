@@ -13,19 +13,6 @@ The code will be released soon (**before the NeurIPS 2025 conference**).
 
 ---
 
-## 📄 Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@inproceedings{yourname2025dison,
-  title={DIsoN: Decentralized Isolation Networks for Out-of-Distribution Detection in Medical Imaging},
-  author={Your Name and Others},
-  booktitle={NeurIPS},
-  year={2025}
-}
-```
-
 ## 📬 Contact
 
 For questions, please send me an email :)
