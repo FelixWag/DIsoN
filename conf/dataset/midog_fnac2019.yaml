@@ -1,0 +1,10 @@
+id_data_paths: "data/midog/train_midog.txt"
+target_data_id_paths: "data/midog/test_midog.txt"
+target_data_ood_paths: "data/midog/test_midog_fnac2019.txt"
+
+pretrained_model_path: "ENTER pretrained model checkpoint path"
+num_classes: 3
+small_resolution: True
+label_file: "data/midog/train_midog_labels.txt"
+id_name: "midog"
+ood_name: "midog_fnac2019"

@@ -1,0 +1,67 @@
+defaults:
+  - dataset: skin_lesion
+  - decentralized
+  - _self_ # This will override the defaults below in the other files (it is at the beginning it will not override)
+
+general:
+  experiment_name: "Debug"
+  seeds: [0, 1, 2]
+  gpu: 0
+  num_workers: 8
+
+loss:
+  margin: 1.0
+  lambda_reg: 0.1
+
+data:
+  data_root: "PATH_TO_WHERE_IMAGES_ARE_STORED"
+  num_target_id_samples: 100
+  num_target_ood_samples: 100
+
+model:
+  model_type: "resnet18"
+  normalization:
+    type: "batch"
+    num_groups: 32
+
+dataset:
+  transform: ???
+
+training:
+  batch_size: 16
+  num_iterations: 10000000
+  learning_rate: 0.0001
+  track_train_accuracy: false 
+  decentralized: false
+  log_interval: 5 
+  loss_function: "bce"
+  scheduler: 10
+  optimizer: ???
+  up_to_layer: 0 # 0 means no freezing
+  grad_clipping: ???
+
+regularizer:
+  lambda_reg: 0.0
+  top_k: null
+
+ood_settings:
+  num_no_support_device_samples: ???
+  num_pacemaker_samples: [0, 1]
+  num_target_samples_from_ID: [0, 1]
+  ood_sample_per_batch: 1
+  minority_sampler: false
+  exclude_target_transform: false
+  hidden_sizes: []
+  dropout_prob: 0.0
+  weight_decay: 0.0
+  model_seed: null
+  grayscale: true
+  pacemaker_frequency: 1
+  id_or_ood: ???
+  subsample: false
+  momentum: 0.0
+  subsample_threshold: 0.99
+
+wandb:
+  group: true
+  project_name: "DIsoN"

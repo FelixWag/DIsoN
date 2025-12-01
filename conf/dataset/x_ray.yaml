@@ -1,0 +1,10 @@
+id_data_paths: "FILEPATH_FOR_TRAINING_DATA"
+target_data_id_paths: "FILE_PATH_FOR_TARGET_ID_DATA"
+target_data_ood_paths: "FILE_PATH_FOR_TARGET_OOD_DATA"
+
+pretrained_model_path: "PATH_TO_PRETRAINED_MODEL"
+small_resolution: False
+num_classes: 2
+label_file: "PATH_TO_FILE_WITH_LABELS_FOR_SOURCE_DATA"
+id_name: "chexpert"
+ood_name: "pacemaker"

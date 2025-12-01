@@ -1,0 +1,7 @@
+decentralized:
+  num_communication_rounds: 100
+  num_local_iterations: 50
+  aggregation_method: 'avg'
+  training_algorithm: 'default'
+  alpha: 0.5
+

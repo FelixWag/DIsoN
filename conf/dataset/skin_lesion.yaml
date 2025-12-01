@@ -1,0 +1,10 @@
+id_data_paths: "data/skin_lesion/no_rulers_train.txt"
+target_data_id_paths: "data/skin_lesion/no_rulers_target.txt"
+target_data_ood_paths: "data/skin_lesion/ruler_type_1.txt"
+
+pretrained_model_path: "ENTER pretrained model checkpoint path"
+small_resolution: False
+num_classes: 2
+label_file: "data/skin_lesion/skinlesion_nevus_train.txt"
+id_name: "skin_lesion"
+ood_name: "ruler_type_1"

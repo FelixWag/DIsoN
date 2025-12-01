@@ -1,0 +1,11 @@
+id_data_paths: "data/breastmnist/no_annotations_train.txt"
+target_data_id_paths: "data/breastmnist/no_annotations_target.txt"
+target_data_ood_paths: "data/breastmnist/annotations.txt"
+
+pretrained_model_path: "ENTER pretrained model checkpoint path"
+
+small_resolution: False
+num_classes: 3
+label_file: "data/breastmnist/train_breastmnist.txt"
+id_name: "breastmnist"
+ood_name: "annotations"

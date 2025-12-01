@@ -1,0 +1,142 @@
+melanoma/Nal033.png
+basal cell carcinoma/Nml106.png
+nevus/Acl262.png
+melanoma/FFL068.png
+nevus/Abl182.png
+nevus/Ael418.png
+nevus/Fhl086.png
+nevus/Ggl090.png
+nevus/Ael474.png
+nevus/Acl222.png
+nevus/Ndl050.png
+melanoma/Gdl035.png
+pigmented benign keratosis/NFL013.png
+nevus/Abl189.png
+nevus/Abl144.png
+pigmented benign keratosis/Nml114.png
+nevus/Ndl073.png
+basal cell carcinoma/Nml101.png
+nevus/Nhl015.png
+nevus/Ncl010.png
+nevus/gzl62.png
+nevus/Ngl073.png
+nevus/Ndl052.png
+nevus/Ael442.png
+nevus/Ffl082.png
+melanoma/newl043.png
+nevus/Adl319.png
+pigmented benign keratosis/Ael487.png
+nevus/FFL008.png
+nevus/Abl127.png
+nevus/gzl84.png
+nevus/Ndl081.png
+nevus/Aal077.png
+melanoma/gzl15.png
+melanoma/Nal052.png
+nevus/Acl240.png
+melanoma/Aal001.png
+nevus/Gal232.png
+melanoma/Fil032.png
+pigmented benign keratosis/Ggl019.png
+melanoma/Nml078.png
+pigmented benign keratosis/Nfl008.png
+pigmented benign keratosis/Nfl011.png
+nevus/Nll017.png
+nevus/Fbl030.png
+nevus/Ndl036.png
+nevus/Fel084.png
+nevus/Acl285.png
+nevus/Gal049.png
+melanoma/Nil030.png
+melanoma/Ngl061.png
+nevus/Abl121.png
+nevus/Nil028.png
+nevus/Fll043.png
+pigmented benign keratosis/Ael409.png
+melanoma/Ffl092.png
+nevus/Gal006.png
+melanoma/NIL077.png
+nevus/Ael452.png
+nevus/Fgl012.png
+nevus/Aal045.png
+melanoma/Nbl059.png
+nevus/Ndl076.png
+melanoma/Fgl061.png
+nevus/Aal099bis.png
+basal cell carcinoma/Nel028.png
+nevus/Aal006.png
+dermatofibroma/Fhl044.png
+nevus/Fdl020.png
+melanoma/Nbl003.png
+nevus/Acl224.png
+melanoma/NGL005.png
+melanoma/newl045.png
+nevus/Abl166.png
+pigmented benign keratosis/gzl17.png
+nevus/Fcl070.png
+nevus/Ael401.png
+nevus/Ael430.png
+nevus/Ael465.png
+nevus/Abl141.png
+nevus/Acl294.png
+melanoma/Nal068.png
+melanoma/Nll002.png
+nevus/Abl188.png
+nevus/Ncl054.png
+dermatofibroma/Acl209.png
+melanoma/Nil081.png
+nevus/Acl220.png
+nevus/Ael424.png
+nevus/Gal238.png
+melanoma/Nal099.png
+melanoma/Nal018.png
+melanoma/Ngl057.png
+nevus/Nml038.png
+pigmented benign keratosis/Ggl022.png
+basal cell carcinoma/Nml098.png
+melanoma/FDL036.png
+nevus/Adl332.png
+melanoma/FFL020.png
+nevus/Acl259.png
+nevus/Fhl084.png
+nevus/Ncl031.png
+nevus/Fhl079.png
+nevus/Fgl008.png
+dermatofibroma/Aal038.png
+nevus/Ggl044.png
+nevus/Nil059.png
+melanoma/Ael493.png
+nevus/Aal094.png
+nevus/gzl10.png
+nevus/Aal010.png
+nevus/Gal057.png
+nevus/gzl67.png
+nevus/Nll046.png
+nevus/Adl320.png
+melanoma/Nbl013.png
+melanoma/Ngl100.png
+vascular lesion/Nel071.png
+nevus/Ncl056.png
+nevus/Ncl064.png
+melanoma/Adl304.png
+nevus/gzl22.png
+nevus/Acl251.png
+pigmented benign keratosis/Ael427.png
+nevus/Fbl098.png
+melanoma/FBL020.png
+nevus/Adl330.png
+vascular lesion/Ggl032.png
+melanoma/Nal091.png
+nevus/Aal087.png
+nevus/Ael400.png
+melanoma/Gdl025.png
+melanoma/Fll116.png
+nevus/Abl123.png
+nevus/Fll041.png
+melanoma/Ffl080.png
+nevus/Fbl092.png
+nevus/Fhl097.png
+nevus/Ggl005.png
+basal cell carcinoma/gzl02.png
+nevus/Ndl054.png
+nevus/Ffl014.png
